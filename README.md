@@ -36,3 +36,8 @@ In this project I have analyzed the youtube data for the top indian Entertainmen
  
  5. Even though videos published in April 2023 were 180.4% greater than in March 2023 the viewership dropped drastically in April by 74.8%.This might be due to people switching to Jio Cinema App for IPL.
  
+ 6. We found than JIOCINEMA YOUTUBE CHANNEL VIEWERSHIP INCREASED BY 11283.3% since its inception in 2016. Fifa 2022 and IPL 2023 broadcast rights were a huge kingpin in achieving this milestone.  
+
+
+
+ 
