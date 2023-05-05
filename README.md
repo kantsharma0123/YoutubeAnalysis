@@ -24,7 +24,7 @@ In this project I have analyzed the youtube data for the top indian Entertainmen
 5. To analyze the impact of major sports event highlights I analyzed JioCinema youtube channel, since it recently acquired rights to broadcast FIFA WORLD 2022 AND IPL 2023. For a more thorough analysis on the trends I scrapped each video’s like, views and publish date for Jio Cinema.  
 6. After extracting the data I used pandas library to clean and fine tune the data for further analysis. I also used grouping to find various aggregate parameters for the channel. I used matplotlib and seaborn to form various graphs to show connection between the parameters. I also used Powerbi to have a more advance analysis to see the connection between various fields. 
 
-<h1> Major Findings for Jio Cinema Youtube Channels</h1>
+<h1> Major Findings for Jio Cinema Youtube Channel</h1>
 
  1. Videos published by the channel in April 2023 were 3970.6% greater than in April 2022. Which shows just how much content is brought in by IPL 
  
