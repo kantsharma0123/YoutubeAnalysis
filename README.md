@@ -4,7 +4,7 @@ Top Indian Entertainment Youtube channels Analysis
 
 # Overview  
  
-In this project I have analyzed the youtube data for the top indian Entertainment youtube channels. I have used google api for scraping the data from youtube. I was able to extract cruicial information like subscriber_count, video_count,date_published_, like count,view count. Performaned various analysis using this data to identify trends for the viewers.
+In this project I have analyzed the youtube data for the top indian Entertainment youtube channels. I have used google api for scraping the data from youtube. I was able to extract cruicial information like subscriber_count, video_count,date_published_, like count,view count. Performed various analysis using this data to identify trends for the viewers.
 
 <h1>Technologies Used</h1>
 
